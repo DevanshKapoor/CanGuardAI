@@ -177,11 +177,3 @@ CanGuard-AI/
     ├── index.js                # Node.js server entry point
     └── package.json
 ```
-
----
-
-For any questions, issues, or contributions, please refer to the repository’s issue tracker or contact the maintainers.
-
----
-
-Let me know if you'd like a version that includes badges, licensing info, or is formatted specifically for platforms like GitHub or GitLab.
